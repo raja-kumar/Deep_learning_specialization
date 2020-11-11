@@ -1,4 +1,3 @@
 # Deep_learning_specialization
-This repo contains the programming assignments of Deep Learning Specialization by deeplearning.ai
+##This repo contains the programming assignments of Deep Learning Specialization by deeplearning.ai
 
-By raja-kumar
